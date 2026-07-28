@@ -1,4 +1,7 @@
-# Hello there, I'm Dani! 👋
+# Hello there, I'm Dani! 
+<p align="left">
+  <img src="https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp" alt="Hello There Obi-Wan Kenobi" width="400" />
+</p>
 
 ### 📫 Connect With Me
 
@@ -16,37 +19,83 @@
 
 ---
 
-I'm an **Informatics Student at Indiana University Indianapolis** bridging the gap between **UX Research, System Architecture, and Software Engineering**. My focus is on understanding user needs through qualitative research and usability testing, then translating those insights into accessible, intuitive, and robust applications.
+I'm an **Informatics Student at Indiana University Indianapolis** focused on **UX Research** — understanding how people actually think, struggle, and make decisions, then using that insight to shape products worth using. I pair qualitative research with just enough technical fluency to work closely with engineering teams and prototype ideas myself.
 
-- 🔭 **Currently working on:** Full-stack systems & mobile applications with user-centered designs.
-- 🧪 **UX Specializations:** Qualitative Interviews, Usability Testing, Persona Development, Wireframing & Prototyping.
-- 🌱 **Learning & Research Goals:** Cloudflare, microservices architecture, and pursuing Master's studies in Human-Computer Interaction.
+- 🔭 **Currently focused on:** Qualitative research, usability testing, and translating user insight into design decisions.
+- 🌱 **Learning & Research Goals:** Pursuing a Master's in Human-Computer Interaction; deepening my practice in mixed-methods research and research operations.
 
 ---
 
-### 🛠️ ALL Languages & Frameworks
+### 🧪 UX Research Methods
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Qualitative_Interviews-4A4A4A?style=for-the-badge" alt="Qualitative Interviews" />
+  <img src="https://img.shields.io/badge/Usability_Testing-4A4A4A?style=for-the-badge" alt="Usability Testing" />
+  <img src="https://img.shields.io/badge/Persona_Development-4A4A4A?style=for-the-badge" alt="Persona Development" />
+  <img src="https://img.shields.io/badge/Heuristic_Evaluation-4A4A4A?style=for-the-badge" alt="Heuristic Evaluation" />
+  <img src="https://img.shields.io/badge/Wireframing_%26_Prototyping-4A4A4A?style=for-the-badge" alt="Wireframing & Prototyping" />
+  <img src="https://img.shields.io/badge/Accessibility_Auditing-4A4A4A?style=for-the-badge" alt="Accessibility Auditing" />
+</p>
+
+### 🎨 UX & Design Toolkit
+
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  <a href="https://www.framer.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  </a>
+  <a href="https://app.diagrams.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
+  </a>
+  <a href="https://lucidchart.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Lucidchart-F96B11?style=for-the-badge&logo=lucid&logoColor=white" alt="Lucidchart" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  </a>
+</p>
+
+### 💻 Technical Fluency
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </a>
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+*Enough to prototype, collaborate with engineers, and speak the language of implementation — full list in the dropdown below.*
+
+<details>
+<summary>🧰 Additional Tools & Technologies</summary>
+<br>
+
+**Languages & Frameworks**
+<p align="left">
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -68,43 +117,18 @@ I'm an **Informatics Student at Indiana University Indianapolis** bridging the g
   </a>
 </p>
 
----
-
-### 🧰 ALL Tools, Systems & Environment
-
-**UX, Design, Modeling & Prototyping**
+**More Design & Modeling Tools**
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  <a href="https://www.framer.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
-  </a>
-  <a href="https://app.diagrams.net/" target="_blank">
-    <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
-  </a>
-  <a href="https://lucidchart.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Lucidchart-F96B11?style=for-the-badge&logo=lucid&logoColor=white" alt="Lucidchart" />
-  </a>
   <a href="https://staruml.io/" target="_blank">
     <img src="https://img.shields.io/badge/StarUML-008B8B?style=for-the-badge&logo=uml&logoColor=white" alt="StarUML" />
   </a>
   <a href="https://wireframe.cc/" target="_blank">
     <img src="https://img.shields.io/badge/Wireframe.cc-222222?style=for-the-badge&logo=wireframe&logoColor=white" alt="Wireframe.cc" />
   </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  </a>
 </p>
 
 **IDEs, API Testing & Build Tools**
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
@@ -150,7 +174,7 @@ I'm an **Informatics Student at Indiana University Indianapolis** bridging the g
   </a>
 </p>
 
-**AI Platforms, Enterprise & Productivity Tools**
+**AI Platforms & Productivity Tools**
 <p align="left">
   <a href="https://chatgpt.com/" target="_blank">
     <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
@@ -172,22 +196,27 @@ I'm an **Informatics Student at Indiana University Indianapolis** bridging the g
   </a>
 </p>
 
+</details>
 ---
 
 ### 📌 Featured Projects
 
-#### 📱 **TownHappening** | *Mobile App & UX Research*
+#### 📱 **TownHappening** | *UX Research & Mobile App*
 A mobile event discovery platform designed to centralize local announcements.
-* **UX Research:** Conducted qualitative user interviews to identify discovery pain points, leading to user personas and low-to-high fidelity iterative prototypes focused on privacy and accessibility.
-* **Mobile Development:** Built in **Flutter** & **Dart** featuring dynamic location switching, real-time filtering, global state management (`Provider`), and native sharing integration.
+* **Research:** Conducted qualitative interviews to uncover discovery pain points around local events, synthesized findings into user personas, and ran iterative low-to-high fidelity prototype testing focused on privacy and accessibility.
+* **Key Insight:** Users disengaged from event discovery when location context wasn't dynamic — this shaped the final IA and interaction model.
+* **Build:** Flutter & Dart, with dynamic location switching, real-time filtering, and native sharing.
 
 #### 🎬 **SeatSphere** | *Movie Ticket Booking System*
-A full-stack cinema management platform built with **Java Spring Boot**, **Node.js/Express**, and **MySQL**.
-* Solved data fragmentation using a relational dynamic engine calculating real-time seat availability and mapping ADA accessibility features.
-* Implemented Role-Based Access Control (RBAC), automated QR ticket generation, and live syncing between customer booking and administrative analytics dashboards.
+A full-stack cinema management platform exploring accessibility-first seat selection.
+* **Research:** Mapped ADA accessibility requirements into the booking flow and evaluated seat-selection usability against real-time availability constraints.
+* **Build:** Java Spring Boot, Node.js/Express, and MySQL, with role-based access control, automated QR ticketing, and live sync between booking and admin dashboards.
 
 #### 🎟️ **ENTRA** | *Card-Based Ticket Booking Interface*
-An HCI-driven ticketing prototype evaluated through heuristic analysis and user usability testing.
-* Iterated card-based interfaces to address seating visibility, checkout clarity, dynamic seat selection, and trust signals.
+An HCI-driven ticketing prototype evaluated through heuristic analysis and usability testing.
+* **Research:** Ran heuristic evaluations and usability tests to diagnose seating visibility, checkout clarity, and trust-signal gaps in card-based booking UIs.
+* **Outcome:** Iterated interface designs that improved perceived trust and reduced checkout confusion in testing sessions.
 
 ---
+
+
