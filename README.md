@@ -19,7 +19,7 @@
 
 ---
 
-I'm an **Senior Informatics Student at Indiana University Indianapolis pursuing an accelerated B.S./M.S. pathway into the Master of Science in Human-Computer Interaction** focused on **UX Research** — understanding how people actually think, struggle, and make decisions, then using that insight to shape products worth using. I pair qualitative research with just enough technical fluency to work closely with engineering teams and prototype ideas myself.
+I'm a **Senior Informatics Student** at **Indiana University Indianapolis** pursuing an accelerated B.S./M.S. pathway into the **Master of Science in Human-Computer Interaction** focused on **UX Research** — understanding how people actually think, struggle, and make decisions, then using that insight to shape products worth using. I pair qualitative research with just enough technical fluency to work closely with engineering teams and prototype ideas myself.
 
 - 🔭 **Currently focused on:** Qualitative research, usability testing, and translating user insight into design decisions.
 - 🌱 **Learning & Research Goals:** Pursuing a Master's in Human-Computer Interaction; deepening my practice in mixed-methods research and research operations.
