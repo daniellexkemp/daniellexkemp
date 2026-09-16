@@ -80,7 +80,7 @@ I'm a **Senior Informatics Student** at **Indiana University Indianapolis** purs
   </a>
 </p>
 
-*Enough to prototype, collaborate with engineers, and speak the language of implementation — full list in the dropdown below.*
+*Enough to prototype, collaborate with engineers, and speak the language of implementation* — **full list in the dropdown below.** 
 
 <details>
 <summary>🧰 Additional Tools & Technologies</summary>
